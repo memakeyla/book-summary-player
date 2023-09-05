@@ -1,0 +1,33 @@
+{
+  "identifier" : "CE88528F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "D0783257",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Oliver Twist",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "book.oliver_twist",
+      "referenceName" : "Oliver Twist",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
